@@ -1,0 +1,32 @@
+[
+    {
+        "curso": "Noções de Proteção e Respeito ao Meio Ambiente",
+        "total_de_aulas": "4",
+        "aulas_concluídas": "1",
+        "falta_realizar": "3"
+    },
+    {
+        "curso": "Noções de Primeiros Socorros",
+        "total_de_aulas": "4",
+        "aulas_concluídas": "2",
+        "falta_realizar": "2"
+    },
+    {
+        "curso": "Legislação de Trânsito",
+        "total_de_aulas": "18",
+        "aulas_concluídas": "6",
+        "falta_realizar": "12"
+    },
+    {
+        "curso": "Funcionamento de Veículos",
+        "total_de_aulas": "3",
+        "aulas_concluídas": "0",
+        "falta_realizar": "3"
+    },
+    {
+        "curso": "Direção Defensiva",
+        "total_de_aulas": "16",
+        "aulas_concluídas": "1",
+        "falta_realizar": "15"
+    }
+]
